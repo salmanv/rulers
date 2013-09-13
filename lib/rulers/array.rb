@@ -3,6 +3,6 @@ class Array
 		inject(start, &:+)
 	end
 
-	puts [2342,234,23424].sum
+	puts [3453,345345,3454534].sum 
 
 end
